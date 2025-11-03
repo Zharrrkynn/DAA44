@@ -58,7 +58,7 @@ public class Main {
 
                 m.stop();
 
-                // --- Формирование результата ---
+                
                 JsonObject result = new JsonObject();
                 result.addProperty("input_file", inputFile.getFileName().toString());
                 result.addProperty("vertices", n);
