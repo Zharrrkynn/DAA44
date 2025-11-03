@@ -1,0 +1,90 @@
+{
+  "input_file": "dataset_medium_dense.json",
+  "vertices": 12,
+  "edges": 14,
+  "execution_time_ms": 0.938875,
+  "dfs_visits": 12,
+  "edge_checks": 42,
+  "relaxations": 0,
+  "operations_total": 54,
+  "sccs": [
+    [
+      11
+    ],
+    [
+      8
+    ],
+    [
+      4
+    ],
+    [
+      9
+    ],
+    [
+      5
+    ],
+    [
+      1
+    ],
+    [
+      10
+    ],
+    [
+      6
+    ],
+    [
+      2
+    ],
+    [
+      7
+    ],
+    [
+      3
+    ],
+    [
+      0
+    ]
+  ],
+  "topological_order": [
+    11,
+    5,
+    8,
+    10,
+    2,
+    4,
+    7,
+    9,
+    1,
+    3,
+    6,
+    0
+  ],
+  "shortest_paths": [
+    0.0,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity
+  ],
+  "longest_paths": [
+    0.0,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity
+  ]
+}

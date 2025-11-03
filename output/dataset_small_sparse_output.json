@@ -1,0 +1,48 @@
+{
+  "input_file": "dataset_small_sparse.json",
+  "vertices": 5,
+  "edges": 4,
+  "execution_time_ms": 35.004084,
+  "dfs_visits": 5,
+  "edge_checks": 12,
+  "relaxations": 0,
+  "operations_total": 17,
+  "sccs": [
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      2
+    ],
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "topological_order": [
+    4,
+    3,
+    2,
+    1,
+    0
+  ],
+  "shortest_paths": [
+    0.0,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity
+  ],
+  "longest_paths": [
+    0.0,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity
+  ]
+}

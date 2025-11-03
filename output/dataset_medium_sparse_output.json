@@ -1,0 +1,78 @@
+{
+  "input_file": "dataset_medium_sparse.json",
+  "vertices": 10,
+  "edges": 9,
+  "execution_time_ms": 0.461541,
+  "dfs_visits": 10,
+  "edge_checks": 27,
+  "relaxations": 0,
+  "operations_total": 37,
+  "sccs": [
+    [
+      9
+    ],
+    [
+      8
+    ],
+    [
+      7
+    ],
+    [
+      6
+    ],
+    [
+      5
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      2
+    ],
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "topological_order": [
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+  ],
+  "shortest_paths": [
+    0.0,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity
+  ],
+  "longest_paths": [
+    0.0,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity
+  ]
+}

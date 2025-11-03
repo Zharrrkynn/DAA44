@@ -1,0 +1,54 @@
+{
+  "input_file": "dataset_small_medium.json",
+  "vertices": 6,
+  "edges": 6,
+  "execution_time_ms": 0.888916,
+  "dfs_visits": 6,
+  "edge_checks": 18,
+  "relaxations": 0,
+  "operations_total": 24,
+  "sccs": [
+    [
+      5
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      0
+    ]
+  ],
+  "topological_order": [
+    5,
+    3,
+    4,
+    2,
+    1,
+    0
+  ],
+  "shortest_paths": [
+    0.0,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity
+  ],
+  "longest_paths": [
+    0.0,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity
+  ]
+}

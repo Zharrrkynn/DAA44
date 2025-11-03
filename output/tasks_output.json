@@ -1,0 +1,56 @@
+{
+  "input_file": "tasks.json",
+  "vertices": 8,
+  "edges": 7,
+  "execution_time_ms": 0.745875,
+  "dfs_visits": 8,
+  "edge_checks": 15,
+  "relaxations": 4,
+  "operations_total": 27,
+  "sccs": [
+    [
+      3,
+      2,
+      1
+    ],
+    [
+      0
+    ],
+    [
+      7
+    ],
+    [
+      6
+    ],
+    [
+      5
+    ],
+    [
+      4
+    ]
+  ],
+  "topological_order": [
+    1,
+    5,
+    0,
+    4,
+    3,
+    2
+  ],
+  "shortest_paths": [
+    Infinity,
+    Infinity,
+    6.0,
+    5.0,
+    0.0,
+    Infinity
+  ],
+  "longest_paths": [
+    -Infinity,
+    -Infinity,
+    6.0,
+    5.0,
+    0.0,
+    -Infinity
+  ]
+}

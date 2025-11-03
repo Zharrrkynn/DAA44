@@ -1,0 +1,138 @@
+{
+  "input_file": "dataset_large_sparse.json",
+  "vertices": 20,
+  "edges": 19,
+  "execution_time_ms": 1.073792,
+  "dfs_visits": 20,
+  "edge_checks": 57,
+  "relaxations": 0,
+  "operations_total": 77,
+  "sccs": [
+    [
+      19
+    ],
+    [
+      18
+    ],
+    [
+      17
+    ],
+    [
+      16
+    ],
+    [
+      15
+    ],
+    [
+      14
+    ],
+    [
+      13
+    ],
+    [
+      12
+    ],
+    [
+      11
+    ],
+    [
+      10
+    ],
+    [
+      9
+    ],
+    [
+      8
+    ],
+    [
+      7
+    ],
+    [
+      6
+    ],
+    [
+      5
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      2
+    ],
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "topological_order": [
+    19,
+    18,
+    17,
+    16,
+    15,
+    14,
+    13,
+    12,
+    11,
+    10,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+  ],
+  "shortest_paths": [
+    0.0,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity,
+    Infinity
+  ],
+  "longest_paths": [
+    0.0,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity,
+    -Infinity
+  ]
+}
