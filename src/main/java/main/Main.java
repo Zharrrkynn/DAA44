@@ -46,7 +46,7 @@ public class Main {
                             edge.get("w").getAsDouble());
                 }
 
-                // --- Алгоритмы ---
+               
                 TarjanSCC tarjan = new TarjanSCC();
                 var sccs = tarjan.findSCCs(g, m);
 
