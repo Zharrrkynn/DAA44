@@ -100,7 +100,7 @@ DAGs have SCC count = n; cyclic graphs → fewer, larger SCCs.
 | **Ops vs Density** | Non-linear; sharp rise for dense graphs |
 | **SCC count vs Graph size** | Inverse relationship |
 
-*(Insert your screenshots or generated charts here)*
+
 
 ---
 
